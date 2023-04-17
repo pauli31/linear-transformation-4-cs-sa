@@ -1,12 +1,12 @@
 # Linear Transformations for Cross-lingual Sentiment Analysis
 This is the repository for the paper: 
 
-## Linear Transformations for Cross-lingual Sentiment Analysis
+#### Linear Transformations for Cross-lingual Sentiment Analysis
 Accepted to [TSD](https://www.tsdconference.org/tsd2022/) conference
 
 and
 
-## A Comprehensive Study of Cross-lingual Sentiment Analysis
+#### A Comprehensive Study of Cross-lingual Sentiment Analysis
 Submitted (under review) to [Expert Systems with Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications)
 
 
