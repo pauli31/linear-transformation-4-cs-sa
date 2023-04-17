@@ -40,7 +40,23 @@ Publication:
 If you use our dataset or software for academic research, please cite the our [paper](https://arxiv.org/abs/2204.13915)
 
 ```
-
+@InProceedings{priban-tsd-2022,
+    author="P{\v{r}}ib{\'a}{\v{n}}, Pavel
+    and {\v{S}}m{\'i}d, Jakub
+    and Mi{\v{s}}tera, Adam
+    and Kr{\'a}l, Pavel",
+    editor="Sojka, Petr
+    and Hor{\'a}k, Ale{\v{s}}
+    and Kope{\v{c}}ek, Ivan
+    and Pala, Karel",
+    title="Linear Transformations for Cross-lingual Sentiment Analysis",
+    booktitle="Text, Speech, and Dialogue",
+    year="2022",
+    publisher="Springer International Publishing",
+    address="Cham",
+    pages="125--137",
+    isbn="978-3-031-16270-1"
+}
 ```
 
 Official proceedings citation will follow soon.
