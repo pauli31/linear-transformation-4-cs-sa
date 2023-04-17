@@ -12,6 +12,6 @@ Cython==0.29.14
 deprecation==2.1.0
 matplotlib
 tqdm==4.61.2
-nltk==3.5
+nltk==3.6.6
 
 
