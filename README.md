@@ -42,7 +42,7 @@ It is strictly prohibited to use the dataset for any commercial purpose.
 Publication:
 --------
 
-If you use our dataset or software for academic research, please cite the our [paper](https://www.tsdconference.org/tsd2022/)
+If you use our dataset, software or approach for academic research, please cite the our [paper](https://www.tsdconference.org/tsd2022/)
 
 ```
 @InProceedings{priban-tsd-2022,
