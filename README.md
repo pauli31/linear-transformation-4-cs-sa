@@ -2,10 +2,13 @@
 This is the repository for the paper: 
 
 ## Linear Transformations for Cross-lingual Sentiment Analysis
-and
-## A Comprehensive Study of Cross-lingual Sentiment Analysis
+Accepted to [TSD](https://www.tsdconference.org/tsd2022/) conference
 
-Accepted to []() conference
+and
+
+## A Comprehensive Study of Cross-lingual Sentiment Analysis
+Submitted (under review) to [Expert Systems with Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications)
+
 
 We use linear transformations for the cross-lingual sentiment analysis between Czech, English and French. 
 
@@ -39,7 +42,7 @@ It is strictly prohibited to use the dataset for any commercial purpose.
 Publication:
 --------
 
-If you use our dataset or software for academic research, please cite the our [paper](https://arxiv.org/abs/2204.13915)
+If you use our dataset or software for academic research, please cite the our [paper](https://www.tsdconference.org/tsd2022/)
 
 ```
 @InProceedings{priban-tsd-2022,
@@ -60,8 +63,6 @@ If you use our dataset or software for academic research, please cite the our [p
     isbn="978-3-031-16270-1"
 }
 ```
-
-Official proceedings citation will follow soon.
 
 Contact:
 --------
