@@ -2,6 +2,8 @@
 This is the repository for the paper: 
 
 ## Linear Transformations for Cross-lingual Sentiment Analysis
+and
+## A Comprehensive Study of Cross-lingual Sentiment Analysis
 
 Accepted to []() conference
 
