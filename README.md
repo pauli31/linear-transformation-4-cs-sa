@@ -1,5 +1,5 @@
 # Linear Transformations for Cross-lingual Sentiment Analysis
-This is the repository for the paper: 
+This is the repository for the papers: 
 
 #### Linear Transformations for Cross-lingual Sentiment Analysis
 Accepted to [TSD](https://www.tsdconference.org/tsd2022/) conference
