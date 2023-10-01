@@ -7,7 +7,8 @@ Accepted to [TSD](https://www.tsdconference.org/tsd2022/) conference
 #### Are the Multilingual Models Better? Improving Czech Sentiment with Transformers
 Accepted to [RANLP 2021](https://aclanthology.org/2021.ranlp-1.128/) conference
 
-for the multilingual Transformers-based approach use the corresponding [GitHub repository](https://github.com/pauli31/improving-czech-sentiment-transformers).
+for the multilingual Transformers-based approach, use the corresponding [GitHub repository](https://github.com/pauli31/improving-czech-sentiment-transformers).
+for prompting source codes, use the corresponding [GitHub repository](https://github.com/pauli31/czech-sentiment-prompting)
 
 #### A Comprehensive Study of Cross-lingual Sentiment Analysis
 Submitted (under review) to [Expert Systems with Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications)
